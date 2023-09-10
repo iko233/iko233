@@ -6,7 +6,7 @@
   - MI 10S
   - IPHONE SE2
   - MACBOOK PRO (M2 MAX)
-  - ROG 幻17(2022)
+  - ROG 幻16(2022)
   - IPAD PRO (M2)
 - 💼 工作:
   - 某不知名的外包公司
