@@ -1,16 +1,17 @@
-### Hi there 👋
+### ✨ 恭喜你发现一处屎山代码的堆积处
 
-<!--
-**iko233/iko233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ABOUT ME
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 设备:
+  - MI 10S
+  - IPHONE SE2
+  - MACBOOK PRO (M2 MAX)
+  - ROG 幻17(2022)
+  - IPAD PRO (M2)
+- 💼 工作:
+  - 某不知名的外包公司
+- 编程语言:
+  - JAVA
+  - JS
+  - PYTHON
+  - RUST(正在学)
