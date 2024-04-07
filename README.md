@@ -5,13 +5,13 @@
 - 💻 设备:
   - MI 10S
   - IPHONE SE2
-  - MACBOOK PRO (M2 MAX)
+  - IPHONE 15 PRO
+  - MACBOOK PRO (2023)
   - ROG 幻16(2022)
-  - IPAD PRO (M2)
+  - IPAD PRO (2022)
 - 💼 工作:
   - 某不知名的外包公司
 - 编程语言:
   - JAVA
   - JS
   - PYTHON
-  - RUST(正在学)
